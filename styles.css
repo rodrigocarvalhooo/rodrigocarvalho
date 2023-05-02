@@ -1,0 +1,87 @@
+.card {
+    text-align: center;
+    background-color: black;
+}
+
+.card-title {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    color: aliceblue;
+    font-weight: 600;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#grid-index {
+    margin-top: 180px;
+    margin-bottom: 50px;
+}
+
+body {
+    background-color: black;
+}
+
+#botao {
+    margin-top: 30px;
+    width: 150px;
+    height: 50px;
+    margin-bottom: 50px;
+}
+
+.txtbotao {
+    padding-top: 4px;
+}
+
+.card-text {
+    color: aliceblue;
+}
+
+span {
+    font-weight: 600;
+}
+
+.navbar-brand {
+    margin-top: 3px;
+}
+
+#page2 {
+    margin-top: 150px;
+    margin-bottom: 90px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+#imggrid:hover {
+    opacity: 0.8;
+    transition: 0.4s;
+}
+
+#video-storie {
+    width: 400px;
+    margin-top: 150px;
+    margin-bottom: 90px;
+}
+
+#video-nuggets {
+    margin-top: 150px;
+    margin-bottom: 90px;
+    max-width: 730px;
+}
+
+#paolando {
+    margin-top: 150px;
+    margin-bottom: 110px;
+}
+
+#twitch {
+    margin-top: 150px;
+    margin-bottom: 110px;
+}
+
+#clips {
+    margin-top: 150px;
+    margin-bottom: 110px;
+}
+
